@@ -3,3 +3,5 @@
 Щоб зрозуміти стан репозиторію на данний момент - git status 
 
 Щоб додати файл в staging area команда git add<file_name>
+
+// comment from another developer
