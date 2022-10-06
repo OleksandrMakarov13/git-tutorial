@@ -7,3 +7,5 @@
 // comment from another developer
 
 для того щоб створити новй бранч з того на якому ми знаходимося - git checkout -b <new_branch_name>
+
+From feature branch A
